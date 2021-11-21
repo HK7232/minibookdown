@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "My First GitHub Book"
+author: "Haemin Kim"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
